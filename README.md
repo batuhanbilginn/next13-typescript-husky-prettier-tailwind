@@ -2,4 +2,4 @@ This is a starter repo for [Next.js 13 (with App directory)](https://nextjs.org/
 
 ## Getting Started
 
-Just fork this repo and start!
+Just clone this repo and start!
